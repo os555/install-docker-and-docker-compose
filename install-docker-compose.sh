@@ -1,5 +1,5 @@
 
-#This shell script will help you to automate install docker-compose on ubuntu
+#This shell script will help you to automate install docker-compose 1.22 on ubuntu 18.04 and 
 
 sudo apt-get update && apt-get upgrade -y
 sudo apt-get -y install apt-transport-https ca-certificates curl software-properties-common
